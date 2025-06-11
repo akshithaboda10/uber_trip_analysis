@@ -51,15 +51,15 @@ uber_trip_analysis/
 cd notebooks
 jupyter notebook Uber_Trip_Analysis.ipynb
 
-### 🐍 Python Script
+**### 🐍 Python Script**
 cd scripts
 python uber_analysis.py
 
-### 🌐 Streamlit App
+**### 🌐 Streamlit App**
 cd app
 streamlit run app.py
 
-📊 Model Performance
+**📊 Model Performance**
 
 | Model             | MAPE (%)     |
 | ----------------- | ------------ |
@@ -68,13 +68,13 @@ streamlit run app.py
 | Gradient Boosting | \~10.0%      |
 | **Ensemble**      | **\~8.2%** ✅ |
 
-✅ Key Insights
+**✅ Key Insights**
 - Trip demand peaks in the evening and on weekends
 - Friday and Saturday nights show the highest trip volume
 - Ensemble model performs best for hourly forecasting
 
 
-📜 License
+**### 📜 License**
 This project is intended for educational and portfolio purposes only.
 ---
 
